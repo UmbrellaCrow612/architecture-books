@@ -11,3 +11,7 @@
 ## Architecting Modern Web Apps
 
 * [.NET and Azure](architecting-modern-web-apps/.net-and-azure.md)
+
+## git
+
+* [Git pro](git/git-pro.md)
